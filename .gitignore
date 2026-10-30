@@ -1,0 +1,13 @@
+CLAUDE.md
+.claude/
+docs/
+README.md
+THIRD_PARTY_NOTICES.md
+.DS_Store
+
+.venv/
+__pycache__/
+.hypothesis/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
